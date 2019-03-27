@@ -4,7 +4,8 @@ def bark
   
   puts "Woof!"
 end 
-def sits
+def sit
+end
 end
 
 fido = Dog.new 
